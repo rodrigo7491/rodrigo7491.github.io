@@ -22,14 +22,14 @@ repository               : "rodrigo7491.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile-rodrigo-otoni.jpg"
+  name             : "Rodrigo Otoni"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Switzerland"
+  bio              : "Postdoc at USI Lugano"
   employer         : "USI Lugano"
+  location         : "Switzerland"
   uri              : # URL
-  email            : "otonir [at] usi.ch"
+  email            : "otonir@usi.ch"
 
   # Academic websites
   academia         : # URL
