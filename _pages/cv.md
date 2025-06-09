@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV-Rodrigo_Otoni.pdf #/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
