@@ -9,13 +9,13 @@
 
 main:
   - title: "Publications"
-    url: /files/Publications-Rodrigo_Otoni.pdf #/publications/
+    url: /files/publications_rodrigo_otoni.pdf #/publications/
 
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV-Rodrigo_Otoni.pdf #/cv/
+    url: /files/cv_rodrigo_otoni.pdf #/cv/
     
   # - title: "CV"
   #   url: /cv-json/
