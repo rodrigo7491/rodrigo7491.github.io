@@ -25,14 +25,14 @@ author:
   avatar           : "profile-rodrigo-otoni.jpg"
   name             : "Rodrigo Otoni"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at the University of Groningen"
+  bio              : | "Assistant Professor\nUniversity of Groningen"
   employer         : # ""
   location         : # ""
-  uri              : # URL
+  uri              : "https://www.rug.nl/staff/r.b.otoni"
   email            : # ""
 
   # Academic websites
-  academia         : "https://www.rug.nl/staff/r.b.otoni"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=mK3qncsAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
