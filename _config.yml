@@ -25,7 +25,7 @@ author:
   avatar           : "profile-rodrigo-otoni.jpg"
   name             : "Rodrigo Otoni"
   pronouns         : # example: "she/her"  
-  bio              : | "Assistant Professor\nUniversity of Groningen"
+  bio              : "Assistant Professor\nUniversity of Groningen"
   employer         : # ""
   location         : # ""
   uri              : "https://www.rug.nl/staff/r.b.otoni"
