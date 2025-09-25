@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   employer         : "University of Groningen"
-  location         : "Netherlands"
+  location         : # "Netherlands"
   uri              : "https://www.rug.nl/staff/r.b.otoni"
   email            : # ""
 
