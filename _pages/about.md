@@ -12,7 +12,3 @@ I am an Assistant Professor at the University of Groningen, Netherlands, investi
 On a more technical note, I have experience in topics such as symbolic model checking, SMT and CHC solving, TLA+ specifications, process algebras, smart contracts, and entanglement-based networks.
 
 For full details, please see my CV.
-
-I have an **open PhD position** on the topic of formal verification of distributed systems, the full details can be found [here].
-
-[here]: https://rodrigo7491.github.io/files/phd_position_ad.pdf
