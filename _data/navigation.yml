@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /files/publications_rodrigo_otoni.pdf #/publications/
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
