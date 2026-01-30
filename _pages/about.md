@@ -15,11 +15,11 @@ For full details, please see my CV.
 
 ### News
 
-- 12/2025 - Paper on SMT-based approximate logic synthesis published at [IEEE TCAD].
-- 11/2025 - Co-organising the Formal Methods track of [NWO ICT.OPEN 2026] (together with [Valentina Castiglioni]).
-- 11/2025 - Gave an invited talk on *Validation of CHC Solving Results* at [NetTCS].
-- 10/2025 - Joined the program committee of [FORTE'26].
-- 09/2025 - Joined the University of Groningen as an Assistant Professor!
+- 12/2025 &ndash; Paper on SMT-based approximate logic synthesis published at [IEEE TCAD].
+- 11/2025 &ndash; Co-organising the Formal Methods track of [NWO ICT.OPEN 2026] (together with [Valentina Castiglioni]).
+- 11/2025 &ndash; Gave an invited talk on *Validation of CHC Solving Results* at [NetTCS].
+- 10/2025 &ndash; Joined the program committee of [FORTE'26].
+- 09/2025 &ndash; Joined the University of Groningen as an Assistant Professor!
 
 [IEEE TCAD]: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43
 [Valentina Castiglioni]: https://sites.google.com/view/valentinacastiglioni
