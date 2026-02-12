@@ -19,7 +19,7 @@ li {
 M. Rezaalipour, M. Biasion, F. Costa, C. Tirelli, L. Ferretti, <ins>R. Otoni</ins>, G. Constantinides, and L. Pozzi.
 <b>Approximate Logic Synthesis via Iterative SMT-based Subcircuit Rewriting</b>.
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.
-<a href="https://doi.org/10.1109/TCAD.2025.3638267">DOI</a> (<a href="https://rodrigo7491.github.io/files/papers/approximate_logic_synthesis_via_iterative_smt-based_subcircuit_rewriting.pdf">preprint</a>)
+<a href="https://doi.org/10.1109/TCAD.2025.3638267">DOI</a> (<a href="https://rodrigo7491.github.io/files/papers/Approximate_Logic_Synthesis_via_Iterative_SMT-based_Subcircuit_Rewriting.pdf">preprint</a>)
 </li>
 
 <li>
