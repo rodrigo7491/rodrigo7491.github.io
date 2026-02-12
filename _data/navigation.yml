@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/cv_rodrigo_otoni.pdf #/cv/
+    url: /cv/ #/files/cv_rodrigo_otoni.pdf
     
   # - title: "CV"
   #   url: /cv-json/

@@ -7,5 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can see my CV in the following file: [cv_rodrigo_otoni.pdf] 
 
+(last update on Jan. 2026)
+
+[cv_rodrigo_otoni.pdf]: https://rodrigo7491.github.io/files/cv_rodrigo_otoni.pdf
