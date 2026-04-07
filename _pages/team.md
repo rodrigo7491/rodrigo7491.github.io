@@ -7,7 +7,6 @@ redirect_from:
 
 ### Current PhD Students
 
-- Andy Tatman
+- [Andy Tatman]
 
-[contact me]: https://www.rug.nl/staff/r.b.otoni
-[projects page of the Fundamental Computing group]: https://fundamentalcomputing.github.io/student-projects
+[Andy Tatman]: https://www.rug.nl/staff/a.s.tatman
