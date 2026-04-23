@@ -57,6 +57,27 @@ ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 <ol reversed>
 
 <li>
+<ins>R. Otoni</ins>, S. Feder, J. Kukovec, A. Kupriyanov, G. Moreira, P. Offtermatt, T. Pani, T. Tran, and I. Konnov.
+<b>The TLA+ Model Checker Apalache</b>.
+38th International Conference on Computer-Aided Verification (CAV'26).
+<i>To Appear</i>
+</li>
+
+<li>
+A. Becchi, M. Blicha, <ins>R. Otoni</ins>, and N. Sharygina.
+<b>PyCHC: a Framework for Modelling and Certified Solving of CHC Systems</b>.
+38th International Conference on Computer-Aided Verification (CAV'26).
+<i>To Appear</i>
+</li>
+
+<li>
+Y. Wang, R. Álvarez, C. Tirelli, <ins>R. Otoni</ins>, G. Ansaloni, L. Pozzi, and D. Atienza.
+<b>FACETs: Fast and Efficient Compilation for Control–Dataflow Mapping on CGRAs</b>.
+22nd International Symposium on Applied Reconfigurable Computing (ARC'26).
+<i>To Appear</i>
+</li>
+
+<li>
 <ins>R. Otoni</ins>, M. Blicha, M. Rivera, P. Eugster, J. Kofroň, and N. Sharygina.
 <b>Unsatisfiability Proofs for Horn Solving</b>.
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS'25).
@@ -116,6 +137,14 @@ M. Marescotti, <ins>R. Otoni</ins>, L. Alt, P. Eugster, A. Hyvärinen, and N. Sh
 <ol reversed>
 
 <li>
+A. Buccolini, M. Biasion, <ins>R. Otoni</ins>, G. Constantinides, and L. Pozzi.
+<b>Towards Input-Distribution-Aware Approximate Multiplier Generation for CNNs</b>.
+29th Design, Automation and Test in Europe Conference (DATE'26)
+&ndash; Extended Abstract.
+<i>To Appear</i>
+</li>
+
+<li>
 <ins>R. Otoni</ins>.
 <b>Automatisierte Garantierte Blockchain-Technologie Verifizierung</b>.
 GI Ausgezeichnete Informatikdissertationen 2023 (Band 24), 2024.
@@ -123,7 +152,7 @@ GI Ausgezeichnete Informatikdissertationen 2023 (Band 24), 2024.
 </li>
 
 <li>
-A. Buckley, P. Chuprikov, <ins>R. Otoni</ins>, R. Soulé, R. Rand, and P. Eugster.
+A. Buckley, P. Chuprikov, <ins>R. Otoni</ins>, R. Rand, R. Soulé, and P. Eugster.
 <b>Towards an Algebraic Specification of Quantum Networks</b>.
 1st Workshop on Quantum Networks and Distributed Quantum Computing (QuNet'23).
 <a href="https://doi.org/10.1145/3610251.3610557">DOI</a>
