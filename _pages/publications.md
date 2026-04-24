@@ -75,6 +75,8 @@ Y. Wang, R. Álvarez, C. Tirelli, <ins>R. Otoni</ins>, G. Ansaloni, L. Pozzi, an
 <b>FACETs: Fast and Efficient Compilation for Control–Dataflow Mapping on CGRAs</b>.
 22nd International Symposium on Applied Reconfigurable Computing (ARC'26).
 <i>To Appear</i>
+<br>
+<i>Best Paper Award</i>
 </li>
 
 <li>
