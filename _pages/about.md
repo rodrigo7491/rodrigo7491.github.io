@@ -15,7 +15,7 @@ For full details, please see my CV.
 
 ### News
 
-- 06/2025 &ndash; Gave a talk on Horn solving certificates at [DFMD'26].
+- 06/2026 &ndash; Gave a talk on Horn solving certificates at [DFMD'26].
 - 05/2026 &ndash; Joined the program committee of [SEFM'26].
 - 04/2026 &ndash; Two papers, on TLA+ model checking and on certified Horn solving, accepted for publication at [CAV'26].
 - 04/2026 &ndash; [ARC'26] paper on CGRA compilation received Best Paper Award. 
