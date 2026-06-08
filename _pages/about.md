@@ -15,18 +15,21 @@ For full details, please see my CV.
 
 ### News
 
+- 06/2025 &ndash; Gave a talk on Horn solving certificates at [DFMD'26].
 - 05/2026 &ndash; Joined the program committee of [SEFM'26].
 - 04/2026 &ndash; Two papers, on TLA+ model checking and on certified Horn solving, accepted for publication at [CAV'26].
 - 04/2026 &ndash; [ARC'26] paper on CGRA compilation received Best Paper Award. 
 - 03/2026 &ndash; Paper on CGRA compilation accepted for publication at [ARC'26].
 - 12/2025 &ndash; Paper on SMT-based approximate logic synthesis published in [IEEE TCAD].
 - 11/2025 &ndash; Co-organising the Formal Methods track of [NWO ICT.OPEN 2026] (together with [Valentina Castiglioni]).
-- 11/2025 &ndash; Gave an invited talk on validation of CHC solving results at [NetTCS].
+- 11/2025 &ndash; Gave a talk on validation of CHC solving results at [NetTCS].
 - 11/2025 &ndash; Paper on approximate multiplier generation accepted for publication at [DATE'26].
 - 10/2025 &ndash; Joined the program committee of [FORTE'26].
 
 [comment]: <> (- 09/2025 &ndash; Joined the University of Groningen as an Assistant Professor!)
 
+[DFMD'26]: https://conf.researchr.org/home/dfdm-2026
+[SEFM'26]: https://sefm-conference.github.io/2026
 [CAV'26]: https://conferences.i-cav.org/2026
 [ARC'26]: https://www.arc2026.org
 [IEEE TCAD]: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43
@@ -35,4 +38,3 @@ For full details, please see my CV.
 [NetTCS]: https://nettcs.cs.ru.nl
 [DATE'26]: https://date26.date-conference.com
 [FORTE'26]: https://www.discotec.org/2026/forte
-[SEFM'26]: https://sefm-conference.github.io/2026
