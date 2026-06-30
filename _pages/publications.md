@@ -155,7 +155,8 @@ A. Buccolini, M. Biasion, <ins>R. Otoni</ins>, G. Constantinides, and L. Pozzi.
 <b>Towards Input-Distribution-Aware Approximate Multiplier Generation for CNNs</b>.
 29th Design, Automation and Test in Europe Conference (DATE'26)
 &ndash; Extended Abstract.
-<i>To Appear</i>
+<a href="https://doi.org/10.23919/DATE69613.2026.11539581">DOI</a>
+(<a href="https://rodrigo7491.github.io/files/papers/Towards_Input-Distribution-Aware_Approximate_Multiplier_Generation_for_CNNs.pdf">preprint</a>)
 </li>
 
 <li>
