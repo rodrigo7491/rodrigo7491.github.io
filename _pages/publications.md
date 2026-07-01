@@ -17,8 +17,8 @@ li {
 
 <li>
 M. Rezaalipour, M. Biasion, F. Costa, C. Tirelli, L. Ferretti, <ins>R. Otoni</ins>, G. Constantinides, and L. Pozzi.
-<b>Approximate Logic Synthesis via Iterative SMT-based Subcircuit Rewriting</b>.
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.
+<b>Approximate Logic Synthesis via Iterative SMT-Based Subcircuit Rewriting</b>.
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 45(7), 2026.
 <a href="https://doi.org/10.1109/TCAD.2025.3638267">DOI</a>
 (<a href="https://rodrigo7491.github.io/files/papers/Approximate_Logic_Synthesis_via_Iterative_SMT-based_Subcircuit_Rewriting.pdf">preprint</a>)
 </li>
@@ -96,7 +96,7 @@ Y. Wang, R. Álvarez, C. Tirelli, <ins>R. Otoni</ins>, G. Ansaloni, L. Pozzi, an
 
 <li>
 C. Tirelli, <ins>R. Otoni</ins>, and L. Pozzi.
-<b>Monomorphism-based CGRA Mapping via Space and Time Decoupling</b>.
+<b>Monomorphism-Based CGRA Mapping via Space and Time Decoupling</b>.
 28th Design, Automation and Test in Europe Conference (DATE'25).
 <a href="https://doi.org/10.23919/DATE64628.2025.10992940">DOI</a>
 (<a href="https://doi.org/10.48550/arXiv.2512.02859">arXiv</a>)
