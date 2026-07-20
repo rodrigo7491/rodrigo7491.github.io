@@ -13,6 +13,8 @@ li {
 
 ### Journal Papers
 
+[comment]: <> (- open access: 1,2,3,4)
+
 <ol reversed>
 
 <li>
@@ -20,7 +22,7 @@ M. Rezaalipour, M. Biasion, F. Costa, C. Tirelli, L. Ferretti, <ins>R. Otoni</in
 <b>Approximate Logic Synthesis via Iterative SMT-Based Subcircuit Rewriting</b>.
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 45(7), 2026.
 <a href="https://doi.org/10.1109/TCAD.2025.3638267">DOI</a>
-(<a href="https://rodrigo7491.github.io/files/papers/Approximate_Logic_Synthesis_via_Iterative_SMT-based_Subcircuit_Rewriting.pdf">preprint</a>)
+(<a href="https://rodrigo7491.github.io/files/papers/Approximate_Logic_Synthesis_via_Iterative_SMT-Based_Subcircuit_Rewriting.pdf">preprint</a>)
 </li>
 
 <li>
@@ -28,15 +30,16 @@ A. Buckley, P. Chuprikov, <ins>R. Otoni</ins>, R. Soulé, R. Rand, and P. Eugste
 <b>A Language for Quantifying Quantum Network Behavior</b>.
 Proceedings of the ACM on Programming Languages (PACMPL), 9(OOPSLA2), 2025.
 <a href="https://doi.org/10.1145/3763135">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/A_Language_for_Quantifying_Quantum_Network_Behavior.pdf">preprint</a>)
 </li>
+
 
 <li>
 <ins>R. Otoni</ins>, M. Blicha, P. Eugster, and N. Sharygina.
 <b>Validation of CHC Satisfiability with ATHENA</b>.
 Formal Aspects of Computing (FAC), 37(4), 2025.
 <a href="https://doi.org/10.1145/3716505">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/Validation_of_CHC_Satisfiability_with_ATHENA.pdf">preprint</a>)
 </li>
 
 <li>
@@ -44,7 +47,7 @@ A. Buckley, P. Chuprikov, <ins>R. Otoni</ins>, R. Soulé, R. Rand, and P. Eugste
 <b>An Algebraic Language for Specifying Quantum Networks</b>.
 Proceedings of the ACM on Programming Languages (PACMPL), 8(PLDI), 2024.
 <a href="https://doi.org/10.1145/3656430">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/An_Algebraic_Language_for_Specifying_Quantum_Networks.pdf">preprint</a>)
 </li>
 
 <li>
@@ -52,12 +55,14 @@ Proceedings of the ACM on Programming Languages (PACMPL), 8(PLDI), 2024.
 <b>A Solicitous Approach to Smart Contract Verification</b>.
 ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 <a href="https://doi.org/10.1145/3564699">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/A_Solicitous_Approach_to_Smart_Contract_Verification.pdf">preprint</a>)
 </li>
 
 </ol>
 
 ### Conference Papers
+
+[comment]: <> (- open access: 4,7)
 
 <ol reversed>
 
@@ -66,6 +71,7 @@ ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 <b>The TLA+ Model Checker Apalache</b>.
 38th International Conference on Computer-Aided Verification (CAV'26).
 <i>To Appear</i>
+(<a href="https://rodrigo7491.github.io/files/papers/The_TLA+_Model_Checker_Apalache.pdf">preprint</a>)
 </li>
 
 <li>
@@ -73,13 +79,15 @@ A. Becchi, M. Blicha, <ins>R. Otoni</ins>, and N. Sharygina.
 <b>PyCHC: a Framework for Modelling and Certified Solving of CHC Systems</b>.
 38th International Conference on Computer-Aided Verification (CAV'26).
 <i>To Appear</i>
+(<a href="https://rodrigo7491.github.io/files/papers/PyCHC_a_Framework_for_Modelling_and_Certified_Solving_of_CHC_Systems.pdf">preprint</a>)
 </li>
 
 <li>
 Y. Wang, R. Álvarez, C. Tirelli, <ins>R. Otoni</ins>, G. Ansaloni, L. Pozzi, and D. Atienza.
 <b>FACETs: Fast and Efficient Compilation for Control–Dataflow Mapping on CGRAs</b>.
 22nd International Symposium on Applied Reconfigurable Computing (ARC'26).
-<i>To Appear</i>
+<a href="https://doi.org/10.1007/978-3-032-29365-7_5">DOI</a>
+(<a href="https://rodrigo7491.github.io/files/papers/FACETs_Fast_and_Efficient_Compilation_for_Control–Dataflow_Mapping_on_CGRAs.pdf">preprint</a>)
 <br>
 <i>Best Paper Award</i>
 </li>
@@ -89,7 +97,7 @@ Y. Wang, R. Álvarez, C. Tirelli, <ins>R. Otoni</ins>, G. Ansaloni, L. Pozzi, an
 <b>Unsatisfiability Proofs for Horn Solving</b>.
 31st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS'25).
 <a href="https://doi.org/10.1007/978-3-031-90653-4_4">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/Unsatisfiability_Proofs_for_Horn_Solving.pdf">preprint</a>)
 <br>
 <i>Distinguished Paper Award</i> and <i>EASST Best Paper Award</i>
 </li>
@@ -99,7 +107,7 @@ C. Tirelli, <ins>R. Otoni</ins>, and L. Pozzi.
 <b>Monomorphism-Based CGRA Mapping via Space and Time Decoupling</b>.
 28th Design, Automation and Test in Europe Conference (DATE'25).
 <a href="https://doi.org/10.23919/DATE64628.2025.10992940">DOI</a>
-(<a href="https://doi.org/10.48550/arXiv.2512.02859">arXiv</a>)
+(<a href="https://rodrigo7491.github.io/files/papers/Monomorphism-Based_CGRA_Mapping_via_Space_and_Time_Decoupling.pdf">preprint</a>)
 </li>
 
 <li>
@@ -117,7 +125,7 @@ C. Tirelli, <ins>R. Otoni</ins>, and L. Pozzi.
 <b>Symbolic Model Checking for TLA+ Made Faster</b>.
 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS'23).
 <a href="https://doi.org/10.1007/978-3-031-30823-9_7">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/Symbolic_Model_Checking_for_TLA+_Made_Faster.pdf">preprint</a>)
 </li>
 
 <li>
@@ -133,7 +141,7 @@ M. Marescotti, <ins>R. Otoni</ins>, L. Alt, P. Eugster, A. Hyvärinen, and N. Sh
 <b>Accurate Smart Contract Verification Through Direct Modelling</b>.
 9th International Symposium on Leveraging Applications of Formal Methods (ISoLA'20).
 <a href="https://doi.org/10.1007/978-3-030-61467-6_12">DOI</a>
-(<a href="https://rodrigo7491.github.io/files/papers/Accurate_Smart_Contract_Verification_through_Direct_Modelling.pdf">preprint</a>)
+(<a href="https://rodrigo7491.github.io/files/papers/Accurate_Smart_Contract_Verification_Through_Direct_Modelling.pdf">preprint</a>)
 </li>
 
 <li>
@@ -147,6 +155,8 @@ M. Marescotti, <ins>R. Otoni</ins>, L. Alt, P. Eugster, A. Hyvärinen, and N. Sh
 </ol>
 
 ### Other Papers
+
+[comment]: <> (- open access: 1,2)
 
 <ol reversed>
 
@@ -164,7 +174,7 @@ A. Buccolini, M. Biasion, <ins>R. Otoni</ins>, G. Constantinides, and L. Pozzi.
 <b>Automatisierte Garantierte Blockchain-Technologie Verifizierung</b>.
 GI Ausgezeichnete Informatikdissertationen 2023 (Band 24), 2024.
 <a href="https://doi.org/10.18420/Diss2023-19">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/Automatisierte_Garantierte_Blockchain-Technologie_Verifizierung.pdf">preprint</a>)
 </li>
 
 <li>
@@ -172,7 +182,7 @@ A. Buckley, P. Chuprikov, <ins>R. Otoni</ins>, R. Rand, R. Soulé, and P. Eugste
 <b>Towards an Algebraic Specification of Quantum Networks</b>.
 1st Workshop on Quantum Networks and Distributed Quantum Computing (QuNet'23).
 <a href="https://doi.org/10.1145/3610251.3610557">DOI</a>
-(open access)
+(<a href="https://rodrigo7491.github.io/files/papers/Towards_an_Algebraic_Specification_of_Quantum_Networks.pdf">preprint</a>)
 </li>
 
 </ol>
