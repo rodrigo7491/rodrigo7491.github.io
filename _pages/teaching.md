@@ -15,9 +15,8 @@ Feel free to [contact me] if you are interested in one of the available projects
 
 ## Courses
 
-### Introduction to Automated Reasoning (WBCS063-05)
-
-- New BSc course starting in the academic year 2026/27, details to follow.
+- Introduction to Automated Reasoning ([WBCS063-05])
 
 [contact me]: https://www.rug.nl/staff/r.b.otoni
 [projects page of the Fundamental Computing group]: https://fundamentalcomputing.github.io/student-projects
+[WBCS063-05]: https://ocasys.rug.nl/current/catalog/course/WBCS063-05
