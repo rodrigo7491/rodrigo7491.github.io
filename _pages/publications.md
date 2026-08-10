@@ -70,7 +70,7 @@ ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 <ins>R. Otoni</ins>, S. Feder, J. Kukovec, A. Kupriyanov, G. Moreira, P. Offtermatt, T. Pani, T. Tran, and I. Konnov.
 <b>The TLA+ Model Checker Apalache</b>.
 38th International Conference on Computer-Aided Verification (CAV'26).
-<i>To Appear</i>
+<a href="https://doi.org/10.1007/978-3-032-32519-8_8">DOI</a>
 (<a href="https://rodrigo7491.github.io/files/papers/The_TLA+_Model_Checker_Apalache.pdf">preprint</a>)
 </li>
 
@@ -78,7 +78,7 @@ ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 A. Becchi, M. Blicha, <ins>R. Otoni</ins>, and N. Sharygina.
 <b>PyCHC: a Framework for Modelling and Certified Solving of CHC Systems</b>.
 38th International Conference on Computer-Aided Verification (CAV'26).
-<i>To Appear</i>
+<a href="https://doi.org/10.1007/978-3-032-32537-2_13">DOI</a>
 (<a href="https://rodrigo7491.github.io/files/papers/PyCHC_a_Framework_for_Modelling_and_Certified_Solving_of_CHC_Systems.pdf">preprint</a>)
 </li>
 
