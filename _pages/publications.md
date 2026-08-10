@@ -76,7 +76,7 @@ ACM Transactions on Privacy and Security (TOPS), 26(2), 2023.
 
 <li>
 A. Becchi, M. Blicha, <ins>R. Otoni</ins>, and N. Sharygina.
-<b>PyCHC: a Framework for Modelling and Certified Solving of CHC Systems</b>.
+<b>PyCHC: A Framework for Certified Horn Solving and CHC-Based Design</b>.
 38th International Conference on Computer-Aided Verification (CAV'26).
 <a href="https://doi.org/10.1007/978-3-032-32537-2_13">DOI</a>
 (<a href="https://rodrigo7491.github.io/files/papers/PyCHC_a_Framework_for_Modelling_and_Certified_Solving_of_CHC_Systems.pdf">preprint</a>)
