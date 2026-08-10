@@ -15,6 +15,8 @@ For full details, please see my CV.
 
 ### News
 
+- 08/2026 &ndash; Joined the program committee of [VMCAI'27].
+- 07/2026 &ndash; Co-organising [DFMD'27] (together with [Marcello Seri] and [Milan Lopuhaa-Zwakenberg]).
 - 06/2026 &ndash; Gave a talk on Horn solving certificates at [DFMD'26].
 - 05/2026 &ndash; Joined the program committee of [SEFM'26].
 - 04/2026 &ndash; Two papers, on TLA+ model checking and on certified Horn solving, accepted for publication at [CAV'26].
@@ -28,6 +30,10 @@ For full details, please see my CV.
 
 [comment]: <> (- 09/2025 &ndash; Joined the University of Groningen as an Assistant Professor!)
 
+[VMCAI'27]: https://conf.researchr.org/home/VMCAI-2027
+[Milan Lopuhaa-Zwakenberg]: https://milanlopuhaazwakenberg.personalweb.utwente.nl
+[Marcello Seri]: http://academic.mseri.me
+[DFMD'27]: https://conf.researchr.org/home/dfmd-2027
 [DFMD'26]: https://conf.researchr.org/home/dfdm-2026
 [SEFM'26]: https://sefm-conference.github.io/2026
 [CAV'26]: https://conferences.i-cav.org/2026
