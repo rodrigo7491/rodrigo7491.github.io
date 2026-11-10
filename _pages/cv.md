@@ -9,6 +9,6 @@ redirect_from:
 
 You can see my CV in the following file: [cv_rodrigo_otoni.pdf] 
 
-(last update on Aug. 2026)
+(last update on Nov. 2026)
 
 [cv_rodrigo_otoni.pdf]: https://rodrigo7491.github.io/files/cv_rodrigo_otoni.pdf
